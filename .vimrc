@@ -13,7 +13,6 @@ call plug#begin('~/.vim/plugged')
      " Fonts.
      Plug 'powerline/powerline-fonts'
      " Themes.
-     Plug 'sainnhe/everforest'
      Plug 'morhetz/gruvbox'
      " Status bar lightline.
      Plug 'itchyny/lightline.vim'
